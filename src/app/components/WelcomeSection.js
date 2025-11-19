@@ -56,7 +56,7 @@ function WelcomeSection() {
       <div className="bg-black h-[70vh] w-full mb-5 relative">
         <img
           src="/bgOne.jpg"
-          className="opacity-60 object-cover lg:object-[0%_25%] w-full h-full"
+          className="opacity-60 object-cover lg:object-[0%_65%] w-full h-full"
         ></img>
         <Countdown targetDate="2026-09-05T15:00:00"></Countdown>
       </div>
